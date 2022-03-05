@@ -1,6 +1,6 @@
-This script helps move your Looney Toon gold collection into the formated [collection](https://www.reddit.com/r/jellyfin/comments/s6pino/looney_tunes_golden_collection_scraped_data_fix/) 
+This script helps move your Looney Toon gold collection into the formatted [collection](https://www.reddit.com/r/jellyfin/comments/s6pino/looney_tunes_golden_collection_scraped_data_fix/) 
 
-Change src to where your collection is located and dst to where the collection folder skeleton is located.
+Change src to where your collection is located and dst to where the formatted collection is located.
 
 Test run can be done by ```python main.py```. Uncomment ```os.replace(i,r)``` to perform the move.
 

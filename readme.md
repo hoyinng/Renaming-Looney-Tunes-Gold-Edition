@@ -1,4 +1,4 @@
-This script helps rename your Looney Toon Gold Collection into [collection](https://www.reddit.com/r/jellyfin/comments/s6pino/looney_tunes_golden_collection_scraped_data_fix/) with correct format
+This script helps rename your Looney Toon gold collection into [collection](https://www.reddit.com/r/jellyfin/comments/s6pino/looney_tunes_golden_collection_scraped_data_fix/) with correct format
 
 Change src to where your collection is located and dst to where the collection folder skeleton is located.
 
